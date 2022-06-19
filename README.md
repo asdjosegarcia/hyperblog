@@ -1,2 +1,2 @@
 # hyperblog
-mi primer repositorio kawaiii
+mi primer repositorio (aunque en relidad es el segundo)
